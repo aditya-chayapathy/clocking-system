@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Clocking System", "Clocking System\Clocking System.vcxproj", "{F1EDD31D-A114-4C90-8D2E-5C04CE23F68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EDD31D-A114-4C90-8D2E-5C04CE23F68D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1EDD31D-A114-4C90-8D2E-5C04CE23F68D}.Debug|Win32.Build.0 = Debug|Win32
+		{F1EDD31D-A114-4C90-8D2E-5C04CE23F68D}.Release|Win32.ActiveCfg = Release|Win32
+		{F1EDD31D-A114-4C90-8D2E-5C04CE23F68D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
